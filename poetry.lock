@@ -16,8 +16,8 @@ python-versions = "*"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.10"
-content-hash = "835242a4bd0eb315dd1eac8afb31b0d066ea1b2002079c2a3cedc262c95e906a"
+python-versions = "^3.9"
+content-hash = "8a23dd57c7143e8f7e64ade322c0098624612993b2c87265a9fa2ea5852b38e3"
 
 [metadata.files]
 pythonping = []
