@@ -8,7 +8,7 @@
       "name": "main",
       "type": "python",
       "request": "launch",
-      "module": "main",
+      "module": "sp",
       "justMyCode": false
     },
     {
